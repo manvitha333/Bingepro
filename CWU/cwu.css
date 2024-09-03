@@ -1,0 +1,40 @@
+
+    
+
+.celebrate-section{
+    background-image: url("https://res.cloudinary.com/dvajqvtmf/image/upload/v1724999172/crop-hands-near-cake-with-candles_kgwljn_c_crop_w_2500_h_600_c2nxf1.jpg");
+      background-size: cover;
+    height: 100%;
+    width: 100%;
+    display: flex;
+   justify-content: center;
+   
+} 
+  .content {
+
+       
+       
+        background-color: rgba(0, 0, 0, 0.5); 
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+       
+  
+      
+  }
+  .booknowbtn {
+    padding: 10px 20px;
+    background-color: #ae1111;
+    border: none;
+    color: white;
+    font-size: 15px;
+   
+    border-radius: 5px;
+  }
+  
+  .booknowbtn:hover {
+    background-color: #700909;
+  }

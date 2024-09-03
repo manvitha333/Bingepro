@@ -1,0 +1,27 @@
+.aboutus {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #ffffff; 
+  }
+  
+  .feature {
+    text-align: center;
+   
+    margin: 0 15px;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+  }
+  
+ .icon{
+    margin-bottom: 40px;;
+ }
+ 
+  
+  .feature a {
+    font-size: 1rem;
+    color: #ff4d4d;
+    text-decoration: none;
+    font-weight: bold;
+  } 
+  
